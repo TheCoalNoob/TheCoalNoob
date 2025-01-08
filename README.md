@@ -1,16 +1,14 @@
-## Hi there 👋
+<!-- This is a comment! -->
+# 🤨You found me.
 
-<!--
-**TheCoalNoob/TheCoalNoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
+👨‍💻Adriane Vincent, Philippines.<br/>
+✍Still studying [Computer Engineering](https://www.facebook.com/icpepuc3).<br/>
 
-Here are some ideas to get you started:
+Other medias: <br/>
+📸Instagram: [ser.adriane](https://www.instagram.com/ser.adriane/) <br/>
+💣Tiktok:   [earphone](https://www.tiktok.com/@ololhahaha) <br/>
+🎮Youtube:  [sav4mg](https://www.youtube.com/@sav4mg) <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--INSPOS: https://github.com/anuraghazra/github-readme-stats -->
+[![TheCoalNoob's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCoalNoob)](https://github.com/TheCoalNoob/github-readme-stats)
